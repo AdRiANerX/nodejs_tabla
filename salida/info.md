@@ -1,0 +1,1 @@
+** Carpeta que almacena la salida del usuario al utilizar la aplicación.
